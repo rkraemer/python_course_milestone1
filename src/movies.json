@@ -1,0 +1,25 @@
+[{
+        "name": "Test",
+        "director": "Ralf",
+        "year": "2020",
+        "rating": "****"
+    },
+    {
+        "name": "Test2",
+        "director": "Ralf",
+        "year": "2021",
+        "rating": "****"
+    },
+    {
+        "name": "Space for Free",
+        "director": "Klaus",
+        "year": "2220",
+        "rating": "**"
+    },
+    {
+        "name": "Emma",
+        "director": "Autumn de Wilde",
+        "year": "2020",
+        "rating": "***"
+    }
+]
